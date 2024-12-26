@@ -1,1 +1,1 @@
-# -gitalk-comments
+# gitalk-comments
